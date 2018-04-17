@@ -1,0 +1,96 @@
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:itunesu="http://www.itunesu.com/feed" version="2.0">
+<channel>
+<link>http://www.wemakedopeshit.com</link>
+<language>en-us</language>
+<copyright/>
+<webMaster>ekshorter@gmail.com Eric Shorter</webMaster>
+<managingEditor>ekshorter@email.com Eric Shorter</managingEditor>
+<image>
+<url>http://i.imgur.com/rQOndfN.jpg</url>
+<title>La Brava 96.1 NJ</title>
+<link>http://www.wemakedopeshit.com</link>
+</image>
+<itunes:owner>
+<itunes:name>Eric Shorter</itunes:name>
+<itunes:email>your@email.com</itunes:email>
+</itunes:owner>
+<itunes:category text="Music"></itunes:category>
+<itunes:keywords>
+local music, Maarty Maar, Greene Music, Live Music, Live, Music, New Jersey
+</itunes:keywords>
+<itunes:explicit>no</itunes:explicit>
+<itunes:image href="http://i.imgur.com/rQOndfN.jpg"/>
+<atom:link href="http://73.178.113.91:30000/itunes.xml" rel="self" type="application/rss+xml"/>
+<pubDate>Sun, 18 Mar 2018 21:00:00 EST</pubDate>
+<title>The Marty After Dark Show</title>
+<itunes:author>Marty After Dark</itunes:author>
+<description>
+Join Marty and his eclectic group of musical and non-musical guests.
+</description>
+<itunes:summary>
+Join Marty and his eclectic group of musical and non-musical guests.
+</itunes:summary>
+<itunes:subtitle>Short Description of the Podcast</itunes:subtitle>
+<lastBuildDate>Sun, 18 Mar 2018 21:00:00 EST</lastBuildDate>
+<item>
+<title>Episode 1 - Dakota Hotel</title>
+<description>
+Zac and Corinna from Dakota Hotel join Marty...after dark
+</description>
+<itunes:summary>
+Zac and Corinna from Dakota Hotel join Marty...after dark
+</itunes:summary>
+<itunes:subtitle>
+Marty sits down with @WattMilliams to hear some live tunes from Dakota Hotel on the first episode of Marty After Dark!
+</itunes:subtitle>
+<itunesu:category itunesu:code="26"/>
+<enclosure url="http://73.178.113.91:30000//Episodes/Episode1.mp3" type="audio/mpeg" length="21837530"/>
+<guid>http://73.178.113.91:30000//Episodes/Episode1.mp3</guid>
+<itunes:duration>00:22:44</itunes:duration>
+<pubDate>Sun, 18 Mar 2018 21:00:00 EST</pubDate>
+</item>
+<item>
+<title>Episode 2 - Eric Shorter</title>
+<description>Eric joins Marty...after dark</description>
+<itunes:summary>Eric joins Marty...after dark</itunes:summary>
+<itunes:subtitle>
+Marty and Mike Smith sit down with Eric Shorter to talk ripped pants and hear some tunes.
+</itunes:subtitle>
+<itunesu:category itunesu:code="26"/>
+<enclosure url="http://73.178.113.91:30000//Episodes/Episode2.mp3" type="audio/mpeg" length="58103848"/>
+<guid>http://73.178.113.91:30000//Episodes/Episode2.mp3</guid>
+<itunes:duration>01:00:31</itunes:duration>
+<pubDate>Sun, 25 Mar 2018 21:00:00 EST</pubDate>
+</item>
+<item>
+<title>Episode 3 - Mike Gleisberg and Edwin Rosa</title>
+<description>Mike and Edwin join Marty...after dark</description>
+<itunes:summary>Mike and Edwin join Marty...after dark</itunes:summary>
+<itunes:subtitle>
+Marty sits down with Edwin Rosa to talk about his upcoming film and hear some live tunes from Mike Gleisberg.
+</itunes:subtitle>
+<itunesu:category itunesu:code="26"/>
+<enclosure url="http://73.178.113.91:30000//Episodes/Episode3.mp3" type="audio/mpeg" length="56928547"/>
+<guid>http://73.178.113.91:30000//Episodes/Episode3.mp3</guid>
+<itunes:duration>00:59:18</itunes:duration>
+<pubDate>Sun, 1 Apr 2018 21:00:00 EST</pubDate>
+</item>
+<item>
+<title>Episode 4 - Chris Lax</title>
+<description>
+Chris Lax and Angel Beltran join Marty...after dark
+</description>
+<itunes:summary>
+Chris Lax and Angel Beltran join Marty...after dark
+</itunes:summary>
+<itunes:subtitle>
+Marty sits down with co-host Angel Beltran to talk about various topics and hear some live tunes from Chris Lax.
+</itunes:subtitle>
+<itunesu:category itunesu:code="26"/>
+<enclosure url="http://73.178.113.91:30000//Episodes/Episode4.mp3" type="audio/mpeg" length="60137220"/>
+<guid>http://73.178.113.91:30000//Episodes/Episode4.mp3</guid>
+<itunes:duration>01:02:38</itunes:duration>
+<pubDate>Sun, 15 Apr 2018 21:00:00 EST</pubDate>
+</item>
+</channel>
+</rss>
