@@ -20,7 +20,7 @@ local music, Maarty Maar, Greene Music, Live Music, Live, Music, New Jersey
 </itunes:keywords>
 <itunes:explicit>no</itunes:explicit>
 <itunes:image href="http://i.imgur.com/rQOndfN.jpg"/>
-<atom:link href="http://73.178.113.91:30000/itunes.xml" rel="self" type="application/rss+xml"/>
+<atom:link href="https://raw.githubusercontent.com/Ferrorn/cast/master/itunes.xml" rel="self" type="application/rss+xml"/>
 <pubDate>Sun, 18 Mar 2018 21:00:00 EST</pubDate>
 <title>The Marty After Dark Show</title>
 <itunes:author>Marty After Dark</itunes:author>
